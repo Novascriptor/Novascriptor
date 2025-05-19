@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓BSc in Computer Science.<br><br>🌐 I have foundational knowledge in HTML, CSS, PHP, vanilla Python, and core Java.<br><br>💻 Passionate about web development and continually expanding my skill set.<br><br>📚 Actively learning Java app development.<br><br>🤝 Looking to collaborate on web development and app development projects.<br><br>🛠 Open to help with advanced Java app development techniques.<br><br>🌟 Fun fact: "Code never lies, comments sometimes do.
+🎓BSc in Computer Science.<br><br>🌐Hi there, im Lincoln, persuing CSI<br><br>📚 Actively learning Java app development.<br><br>🤝 Looking to collaborate projects.<br><br>🛠 Open to help with advanced Java app development techniques.<br><br>🌟 Fun fact: "Code never lies, comments sometimes do.
 
 
 ## 🌐 Socials:
