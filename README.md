@@ -5,7 +5,7 @@
 *   🎓 **Education:** BSc in Computer Science.
 *   📚 **Learning:** Advanced Java App Development & Spring Boot.
 *   🤝 **Collaboration:** Open to Java-based open-source projects.
-*   🛠 **Support:** Happy to help with MERAN Stack and Java backend logic.
+*   🛠 **Support:** Happy to help with MERN Stack and Java backend logic.
 *   🌟 **Fun Fact:** *"Code never lies, comments sometimes do."*
 
 ---
